@@ -48,3 +48,7 @@ __*git clone https://github.com/Chell406/Git-Seminar-30-05-2022.git*__
 __*git pull origin master*__
 
 ## Отправка изменений в удалённый репозиторий
+
+Для отправка ваших изменений на удаленный репозиторий используется команда __*git push origin <имя_ветки>*__ :
+
+__*git push origin master*__
